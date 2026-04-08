@@ -196,7 +196,7 @@
         "order a sim",
         "order sim card"
       ],
-      "response": "No worries! The compatibility checker on that page will tell you exactly what you need. If you're stuck, just drop your phone model here and I'll help figure it out.\n\nOnce you're ready, you can order a SIM here:\nhttps://golitemobile.com/prepaid-plans/\nor\nhttps://golitemobile.com/plans/postpaid-plan/",
+      "response": "No worries! The compatibility checker on that page will tell you exactly what you need. If you're stuck, just drop your phone model here and I'll help figure it out.\n\nOnce you're ready, you can order a SIM here:\nhttps://golitemobile.com/prepaid-plans/\nor\nhttps://golitemobile.com/plans/postpaid-plans/",
       "suggestions": [
         "Prepaid plans",
         "Postpaid plans",
@@ -711,7 +711,7 @@
         "plans features",
         "plan types"
       ],
-      "response": "Plans & Features\n\n\"Understanding Our Plans\"\n- Prepaid vs Postpaid explained\n- Prepaid plans:\nhttps://golitemobile.com/prepaid-plans/\n- Postpaid plans:\nhttps://golitemobile.com/plans/postpaid-plan/\n- What's included in every plan?\n\n\"Family & Multi-Line Plans\"\n- How family plans work:\nhttps://golitemobile.com/shop-family-multi-line-plans/\n- Sharing data across lines\n- Adding and removing lines\n- Multi-line discounts\n\n\"International Services\"\nhttps://golitemobile.com/international-calls/\nhttps://golitemobile.com/travel-plans/\nhttps://golitemobile.com/international-roaming/\n\n\"Special Plans & Discounts\"\nhttps://golitemobile.com/military-discount-eligibility-form/\nhttps://golitemobile.com/students-discount-application/\nhttps://golitemobile.com/first-responder-discount-application/\nhttps://golitemobile.com/senior-citizen-discount-enrollment-form/\n- Current promotions:\nhttps://golitemobile.com/special-offers-promotions/",
+      "response": "Plans & Features\n\n\"Understanding Our Plans\"\n- Prepaid vs Postpaid explained\n- Prepaid plans:\nhttps://golitemobile.com/prepaid-plans/\n- Postpaid plans:\nhttps://golitemobile.com/plans/postpaid-plans/\n- What's included in every plan?\n\n\"Family & Multi-Line Plans\"\n- How family plans work:\nhttps://golitemobile.com/shop-family-multi-line-plans/\n- Sharing data across lines\n- Adding and removing lines\n- Multi-line discounts\n\n\"International Services\"\nhttps://golitemobile.com/international-calls/\nhttps://golitemobile.com/travel-plans/\nhttps://golitemobile.com/international-roaming/\n\n\"Special Plans & Discounts\"\nhttps://golitemobile.com/military-discount-eligibility-form/\nhttps://golitemobile.com/students-discount-application/\nhttps://golitemobile.com/first-responder-discount-application/\nhttps://golitemobile.com/senior-citizen-discount-enrollment-form/\n- Current promotions:\nhttps://golitemobile.com/special-offers-promotions/",
       "suggestions": [
         "Prepaid plans",
         "Postpaid plans",
@@ -891,7 +891,7 @@
     {
       "id": "search_postpaid",
       "keywords": ["search postpaid", "find postpaid", "looking for postpaid"],
-      "response": "Search results for \"postpaid\":\n\n1. Postpaid Plans\nhttps://golitemobile.com/plans/postpaid-plan/\n\n2. Business Plans\nhttps://golitemobile.com/business/",
+      "response": "Search results for \"postpaid\":\n\n1. Postpaid Plans\nhttps://golitemobile.com/plans/postpaid-plans/\n\n2. Business Plans\nhttps://golitemobile.com/business/",
       "suggestions": [
         "Postpaid plans",
         "Business plans",
@@ -902,7 +902,7 @@
     {
       "id": "search_family",
       "keywords": ["search family", "find family plans", "looking for family"],
-      "response": "Search results for \"family\":\n\n1. Family & Multi-Line Plans\nhttps://golitemobile.com/shop-family-multi-line-plans/\n\n2. Prepaid Plans (multi-line eligible)\nhttps://golitemobile.com/prepaid-plans/\n\n3. Postpaid Plans (multi-line eligible)\nhttps://golitemobile.com/plans/postpaid-plan/",
+      "response": "Search results for \"family\":\n\n1. Family & Multi-Line Plans\nhttps://golitemobile.com/shop-family-multi-line-plans/\n\n2. Prepaid Plans (multi-line eligible)\nhttps://golitemobile.com/prepaid-plans/\n\n3. Postpaid Plans (multi-line eligible)\nhttps://golitemobile.com/plans/postpaid-plans/",
       "suggestions": [
         "Family plans",
         "Prepaid plans",
@@ -917,7 +917,7 @@
         "find unlimited",
         "unlimited plans search"
       ],
-      "response": "Search results for \"unlimited\":\n\n1. View All Plans\nhttps://golitemobile.com/plans-features-overview/\n\n2. Prepaid Plans\nhttps://golitemobile.com/prepaid-plans/\n\n3. Postpaid Plans\nhttps://golitemobile.com/plans/postpaid-plan/",
+      "response": "Search results for \"unlimited\":\n\n1. View All Plans\nhttps://golitemobile.com/plans-features-overview/\n\n2. Prepaid Plans\nhttps://golitemobile.com/prepaid-plans/\n\n3. Postpaid Plans\nhttps://golitemobile.com/plans/postpaid-plans/",
       "suggestions": [
         "Plans overview",
         "Prepaid plans",
@@ -943,7 +943,7 @@
         "find business plans",
         "looking for business"
       ],
-      "response": "Search results for \"business\":\n\n1. Business Plans\nhttps://golitemobile.com/business/\n\n2. Postpaid Plans\nhttps://golitemobile.com/plans/postpaid-plan/",
+      "response": "Search results for \"business\":\n\n1. Business Plans\nhttps://golitemobile.com/business/\n\n2. Postpaid Plans\nhttps://golitemobile.com/plans/postpaid-plans/",
       "suggestions": [
         "Business plans",
         "Postpaid plans",
@@ -1231,7 +1231,7 @@
         "postpaid billing",
         "postpaid plan"
       ],
-      "response": "Postpaid plans are billed at the end of your billing cycle. Flexible 12 or 24-month options available.\n\nSee postpaid plans here:\nhttps://golitemobile.com/plans/postpaid-plan/",
+      "response": "Postpaid plans are billed at the end of your billing cycle. Flexible 12 or 24-month options available.\n\nSee postpaid plans here:\n",
       "suggestions": [
         "Plans overview",
         "Family plans",
