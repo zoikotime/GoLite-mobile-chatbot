@@ -19,7 +19,7 @@ The chatbot content and intent behavior are carried over from the original `driv
 ```bash
 cd backend
 npm install
-copy .env.example .env
+copy .env.example .env provide all the URL's in it.
 npm run dev
 ```
 
